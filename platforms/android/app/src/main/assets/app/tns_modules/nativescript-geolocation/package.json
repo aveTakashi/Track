@@ -1,0 +1,81 @@
+{
+  "_from": "nativescript-geolocation",
+  "_id": "nativescript-geolocation@4.3.0",
+  "_inBundle": false,
+  "_integrity": "sha512-dzsJx+zdPytZX0eet9nqL54WvflpSkC9vDnSFDt85DqmgOImfn0RQEL1UasrczB3hjB8VsYjGMBR3hTxypmdLQ==",
+  "_location": "/nativescript-geolocation",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "nativescript-geolocation",
+    "name": "nativescript-geolocation",
+    "escapedName": "nativescript-geolocation",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-geolocation/-/nativescript-geolocation-4.3.0.tgz",
+  "_shasum": "f03682bc955e6e4075c9c86940b2e9d6367e0142",
+  "_spec": "nativescript-geolocation",
+  "_where": "C:\\Users\\Avee\\Desktop\\NativeApps\\Track",
+  "author": {
+    "name": "NativeScript Team"
+  },
+  "bootstrapper": "nativescript-plugin-seed",
+  "bugs": {
+    "url": "https://github.com/NativeScript/nativescript-geolocation/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "nativescript-permissions": "~1.2.3"
+  },
+  "deprecated": false,
+  "description": "Provides API for getting and monitoring location for NativeScript app.",
+  "devDependencies": {
+    "prompt": "~1.0.0",
+    "rimraf": "~2.6.2",
+    "tns-core-modules": "^3.0.0",
+    "tns-platform-declarations": "^3.0.0",
+    "tslint": "~5.4.3",
+    "typescript": "~2.7.2"
+  },
+  "homepage": "https://github.com/NativeScript/nativescript-geolocation",
+  "keywords": [
+    "NativeScript",
+    "JavaScript",
+    "Android",
+    "iOS"
+  ],
+  "license": "Apache-2.0",
+  "main": "geolocation",
+  "name": "nativescript-geolocation",
+  "nativescript": {
+    "platforms": {
+      "android": "3.0.0",
+      "ios": "3.0.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NativeScript/nativescript-geolocation.git"
+  },
+  "scripts": {
+    "build": "npm i && tsc",
+    "ci.tslint": "npm i && tslint '**/*.ts' --config '../tslint.json' --exclude '**/node_modules/**'",
+    "demo.android": "npm i && npm run tsc && cd ../demo && tns run android --syncAllFiles",
+    "demo.ios": "npm i && npm run tsc && cd ../demo && tns run ios --syncAllFiles",
+    "plugin.link": "npm link && cd ../demo && npm link nativescript-geolocation && cd ../src",
+    "plugin.tscwatch": "npm run tsc -- -w",
+    "test.android": "npm i && npm run tsc && npm run tslint && cd ../demo && tns build android && tns test android --justlaunch",
+    "test.ios": "npm i && npm run tsc && npm run tslint && cd ../demo && tns build ios && tns test ios --justlaunch",
+    "tsc": "tsc -skipLibCheck",
+    "tslint": "cd .. && tslint \"**/*.ts\" --config tslint.json --exclude \"**/node_modules/**\""
+  },
+  "typings": "index.d.ts",
+  "version": "4.3.0"
+}

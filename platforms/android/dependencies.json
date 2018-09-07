@@ -1,0 +1,38 @@
+[
+    {
+        "name": "nativescript-geolocation",
+        "directory": "..\\..\\node_modules\\nativescript-geolocation"
+    },
+    {
+        "name": "nativescript-google-maps-sdk",
+        "directory": "..\\..\\node_modules\\nativescript-google-maps-sdk"
+    },
+    {
+        "name": "nativescript-plugin-firebase",
+        "directory": "..\\..\\node_modules\\nativescript-plugin-firebase"
+    },
+    {
+        "name": "nativescript-theme-core",
+        "directory": "..\\..\\node_modules\\nativescript-theme-core"
+    },
+    {
+        "name": "nativescript-ui-sidedrawer",
+        "directory": "..\\..\\node_modules\\nativescript-ui-sidedrawer"
+    },
+    {
+        "name": "tns-core-modules",
+        "directory": "..\\..\\node_modules\\tns-core-modules"
+    },
+    {
+        "name": "nativescript-permissions",
+        "directory": "..\\..\\node_modules\\nativescript-permissions"
+    },
+    {
+        "name": "nativescript-ui-core",
+        "directory": "..\\..\\node_modules\\nativescript-ui-core"
+    },
+    {
+        "name": "tns-core-modules-widgets",
+        "directory": "..\\..\\node_modules\\tns-core-modules-widgets"
+    }
+]
