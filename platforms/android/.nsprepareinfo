@@ -1,0 +1,30 @@
+{
+	"time": "Fri Sep 07 2018 00:09:28 GMT+0100 (GMT Daylight Time)",
+	"nativePlatformStatus": "3",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": false,
+	"projectFileHash": "e11c51dd31c876b6373556468dac5736d319ff3992095b0154c2e098f8f9a0c4",
+	"changesRequireBuildTime": "Thu Sep 06 2018 17:02:55 GMT+0100 (GMT Daylight Time)",
+	"appFilesHashes": {
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\app\\app.js": "f6bfc0a37bae7b8188817baa83b6cc7416b1f232",
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\app\\app-root.xml": "8aee8ad56d2ce5a18e7650cd55e29ab95b4d04dc",
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\app\\views\\login_page\\login_page.css": "8ddce971db6a87a91b6a36fbe02dc0572f5b8622",
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\app\\app.css": "6b35cf7fc669764bd611ef9fe3164457246cfaed",
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\app\\references.d.ts": "c83a3304d98c2586359871f5d8ac10c8aa8af848",
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\app\\views\\login_page\\login_page.js": "8554983e2572681f196d990e9c1ac827dbea5d13",
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\app\\views\\login_page\\login_page.xml": "65de09560a682b3fe9792c2c3afa34665bc4c60a",
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\app\\views\\login_page\\login_view_model.js": "5953b68b6c36fdaf4d7f5ac5d6220607efcc4113",
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\app\\views\\signup\\signup-model.js": "4276f7d45b3b68add1dae9922333e786201facad",
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\app\\views\\signup\\signup.xml": "edf7fcded04262dd35ebd58afe4ce25fd8ba0f19",
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\app\\views\\signup\\signup.css": "fc4b318281469bacf714f60ad95708766a0b79ef",
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\app\\package.json": "554a1e7b09cfa1663c75683765118999cb11411a",
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\app\\views\\track\\main-view-model.js": "8fc92b412b9bbabca1f29204fd45332288133c54",
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\app\\views\\track\\track.js": "5eff27ab948a9e2a26f741ba682934edf550840a",
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\app\\views\\users\\user-model.js": "b6efb7fffa697e147ff1b6bdb4c242fe728ada9a",
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\app\\views\\users\\users.js": "85968de7a195307445e66848973826913ef4ccbe",
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\app\\views\\users\\users.xml": "df8c483b41faff92c8b577f28c56000ff4a25fd1",
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\app\\views\\signup\\signup.js": "c1dd6f5f95cccdf486d02bdd325c65c422d692af",
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\app\\views\\track\\track.xml": "7b9793b80777d940fde9c03aa820e31fe42844fc"
+	}
+}
