@@ -1,0 +1,19 @@
+ <Page 
+    xmlns="http://www.nativescript.org/tns.xsd"
+    navigatingTo="onNavigatingTo"
+    >
+    <Page.actionBar>
+        <ActionBar title="Online Users" icon="" class="action-bar">
+        <ActionItem tap="{{ onback }}" android.systemIcon="ic_menu_back"></ActionItem>
+        </ActionBar>
+    </Page.actionBar>
+
+    <ListView row="{{ length }}" itemTap="onItemSelect" class="list-group" items= "{{ username }}">
+        <ListView.itemTemplate>
+            <StackLayout class="list-group-items">
+                <Label text="{{ username }}" textWrap="true" class="title" style="font-size :25px; padding:10px;"/>
+            </StackLayout>
+        </ListView.itemTemplate>
+    </ListView>
+
+</Page>

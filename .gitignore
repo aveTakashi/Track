@@ -1,0 +1,4 @@
+# Ignore these folders
+node_modules/
+platforms/
+hooks/
