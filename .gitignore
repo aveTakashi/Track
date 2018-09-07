@@ -1,4 +1,11 @@
 # Ignore these folders
 node_modules/
-platforms/
 hooks/
+platforms/android/app/build/
+platforms/android/app/libs/
+platforms/android/app/src/
+platforms/android/build/
+platforms/android/build-tools/
+.idea
+local.properties
+*.iml
