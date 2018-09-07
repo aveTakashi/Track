@@ -1,0 +1,28 @@
+{
+	"nativescript-geolocation": {
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\node_modules\\nativescript-geolocation\\platforms\\android\\include.gradle": "074d4a98936b9d4afd934b7d87a3f7d260fb9fbf",
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\node_modules\\nativescript-geolocation\\platforms\\android\\nativescript_geolocation.aar": "8d2a9d9e9492fb3a2321eb2343881330be4de2e3"
+	},
+	"nativescript-google-maps-sdk": {
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\node_modules\\nativescript-google-maps-sdk\\platforms\\android\\AndroidManifest.xml": "130cc0f7d61291e1fe1fe5162746b1b3def24330",
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\node_modules\\nativescript-google-maps-sdk\\platforms\\android\\include.gradle": "faf6fc754a47c6266f96b0406272ff1f1028a054",
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\node_modules\\nativescript-google-maps-sdk\\platforms\\android\\nativescript_google_maps_sdk.aar": "79a9a2d3fb844a7cb3fed157866f2f5ddc639798",
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\node_modules\\nativescript-google-maps-sdk\\platforms\\android\\res\\values\\nativescript_google_maps_api.xml": "d17f77bd86070f002f9c7e6b406b8e89a9b039a6"
+	},
+	"nativescript-plugin-firebase": {
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\node_modules\\nativescript-plugin-firebase\\platforms\\android\\include.gradle": "269715f39abb7eab6d4443bd99a8a01f6c05bf31",
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\node_modules\\nativescript-plugin-firebase\\platforms\\android\\firebase-release.aar": "e06484ef157fb7579b48d5d7d034aa20ba77243f",
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\node_modules\\nativescript-plugin-firebase\\platforms\\android\\README.md": "b4cfe408efe30ab685c6aba22230098f2fd697d8"
+	},
+	"tns-core-modules-widgets": {
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\node_modules\\tns-core-modules-widgets\\platforms\\android\\widgets-release.aar": "7a062e96fe7b542638c6a6570de1531521a7307b"
+	},
+	"nativescript-ui-sidedrawer": {
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\node_modules\\nativescript-ui-sidedrawer\\platforms\\android\\TNSSideDrawer-release.aar": "014feca9bb77a2b9bb64edb4fdc8a0fbfab4abed",
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\node_modules\\nativescript-ui-sidedrawer\\platforms\\android\\typings\\sidedrawer.d.ts": "91ef64e6d1864556d27ded671283ee4a05b7c4eb"
+	},
+	"nativescript-ui-core": {
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\node_modules\\nativescript-ui-core\\platforms\\android\\TNSCore-release.aar": "cce16a86c2a6f56ca7243ed8db86b004ecb0016e",
+		"C:\\Users\\Avee\\Desktop\\NativeApps\\Track\\node_modules\\nativescript-ui-core\\platforms\\android\\typings\\core.d.ts": "5c032652edfa1719ef8c8190fc0f66d3b1c313c2"
+	}
+}
