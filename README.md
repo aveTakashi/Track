@@ -11,8 +11,28 @@ git clone https://github.com/ave12345/Track.git
 The installation of the nativescript CLI would be needed to run the application. You can head over to <https://www.npmjs.com/package/nativescript> for details on how to install nativescript CLI.
 ```
 
-## Installation
-cd into the folder and
+## Pre-Configurations and Installation
+After cloning the repository, cd into the ```Track``` (Root) folder and run
+```
+tns build android
+```
+three more folders would be created, ```(hooks,node_modules and platforms)``` after the build process.
+navigate to : ```node_modules\nativescript-geolocation\platforms\android```
+in the android folder open the ```include.gradle``` file with your IDE. In line 15 change;
+```
+def googlePlayServicesVersion = project.hasProperty('googlePlayServicesVersion') ? project.googlePlayServicesVersion : "11.4.0"
+```
+TO
+```
+def googlePlayServicesVersion = project.hasProperty('googlePlayServicesVersion') ? project.googlePlayServicesVersion : "+"
+```
+Afterwards, with your terminal in the ```Track``` (Root) folder, run
+```
+tns build android
+```
+
+## Execution
+After the build process
 run the following in your terminal
 ```
 tns run android
